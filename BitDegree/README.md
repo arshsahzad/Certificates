@@ -1,1 +1,1 @@
-1. **123** ~ [_Verify Certficate_]().
+1. [**BitDegree - 123**]() ~ [(_Verify Certficate_)]()
