@@ -1,3 +1,3 @@
-1. [**SoftRetic - Web Designer _Intern_**](https://git.arsh.dev/arshsahzad/Certificates/src/main/SoftRetic/01.pdf)
+1. [**SoftRetic - Web Designer `Intern`**](https://git.arsh.dev/arshsahzad/Certificates/src/main/SoftRetic/01.pdf)
 
 2. [**SoftRetic - Web Challenge**](https://git.arsh.dev/arshsahzad/Certificates/src/main/SoftRetic/02.pdf)
