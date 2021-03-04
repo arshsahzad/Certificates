@@ -1,0 +1,1 @@
+1. [**Amazon Web Services - AWS Educate**](https://git.arsh.dev/arshsahzad/Certificates/src/main/Amazon/01.pdf)
