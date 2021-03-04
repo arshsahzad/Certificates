@@ -1,0 +1,1 @@
+1. [**HCL Foundation - Zero Wastage**](https://git.arsh.dev/arshsahzad/Certificates/src/main/Marathon/01.pdf) ~ [(_Verify Certficate_)](https://www.cleannoida.org/zerowaste/certificates/3760_MDAMIRALI.pdf)
